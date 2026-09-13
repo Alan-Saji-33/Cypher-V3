@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://i.ibb.co/whj6yh7Q/IMG-20250726-122907.png" alt="Cypher v3 Banner" width="100%"/>
+<img src="[https://i.ibb.co/whj6yh7Q/IMG-20250726-122907.png](https://i.ibb.co/fGD6CNYh/Chat-GPT-Image-Sep-13-2026-11-34-31-AM.png)" alt="Cypher v3 Banner" width="100%"/>
 
 <br/>
 
